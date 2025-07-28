@@ -1,0 +1,11 @@
+.about-me-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.about-me-container ul li{
+    list-style-type: none;
+}
+span{
+    font-weight: bold;
+}

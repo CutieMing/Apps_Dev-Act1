@@ -4,7 +4,10 @@ const ProfilePicture = () => {
   return (
     <div className='profile-picture-container'>
       <img src="../public/profile.jpg" alt="Profile" />
-      <h3>Hi! I'm Teds a Junior Web Developer.</h3>
+     <div className='profile-text'>
+       <h3>Hi! I'm Teds a Junior Web Developer.</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum.</p>
+     </div>
     </div>
   )
 }

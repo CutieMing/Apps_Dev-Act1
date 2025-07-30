@@ -35,21 +35,3 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18); /* Added subtle shadow */
 }
 
-.know-more-button {
-    background-color: #8f8b88;
-    color: #fff;
-    border: none;
-    border-radius: 6px;
-    padding: 10px 28px;
-    font-size: 1rem;
-    font-weight: 600;
-    cursor: pointer;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.18);
-    transition: background 0.3s, transform 0.2s;
-    margin-top: 20px;
-}
-
-.know-more-button:hover {
-    background-color: #6d6a67;
-    transform: translateY(-2px) scale(1.05);
-}

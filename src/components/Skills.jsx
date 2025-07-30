@@ -13,7 +13,6 @@ const Skills = () => {
         <li><img src="../php.png" alt="" /></li>
         <li><img src="../tailwind.png" alt="" /></li>
       </ul>
-      <button className='know-more-button'>Know me more</button>
     </div>
   )
 }

@@ -3,6 +3,7 @@ import ProfilePicture from './ProfilePicture'
 import Skills from './Skills'
 import Aboutme from './Aboutme'
 import '../styles/Profile.css'
+import Button from './Button'
 
 const Profile = () => {
   return (
@@ -10,6 +11,7 @@ const Profile = () => {
       <ProfilePicture />
       <Aboutme />
       <Skills />
+      <Button />
     </div>
   )
 }

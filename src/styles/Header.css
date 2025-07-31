@@ -9,6 +9,7 @@
     list-style: none;
     padding: 10px 20px;
     cursor: pointer;
+    font-size: large;
 }
 
 .header-nav li:hover{

@@ -4,7 +4,7 @@ import '../styles/Button.css'
 const Button = () => {
   return (
     <div className='button-container'>
-    <button className='know-more-button'  onClick={() => window.location.href = 'https://www.facebook.com/Shenpiekun'} >Know me more</button>
+    <button className='know-more-button'  onClick={() => window.location.href = 'https://www.facebook.com/Shenpiekun'} >Get to Know me</button>
     </div>
   )
 }

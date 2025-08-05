@@ -1,23 +1,25 @@
 .know-more-button {
-    background-color: #8f8b88;
+    background-color: #4f4e4d;
     color: #fff;
     border: none;
     border-radius: 6px;
     padding: 10px 28px;
-    font-size: 1rem;
+    font-size: 14px;
     font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
     cursor: pointer;
     box-shadow: 0 2px 8px rgba(0,0,0,0.18);
     transition: background 0.3s, transform 0.2s;
     margin-top: 20px;
+    
 }
 
 .know-more-button:hover {
-    background-color: #6d6a67;
+    background-color: #7095e7;
     transform: translateY(-2px) scale(1.05);
 }
 
 .button-container{
     width: 100%;
-    left: 0;
+    text-align: center;
 }

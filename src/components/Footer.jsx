@@ -3,7 +3,7 @@ import '../styles/Footer.css'
 const Footer = () => {
   return (
     <div className='footer-container'>
-      <p>&copy;Apps Dev Activity 1, July 29 2025 </p>
+      <p>&copy;2025 Apps Dev Act 1. All rights reserved.</p>
     </div>
   )
 }

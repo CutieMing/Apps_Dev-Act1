@@ -5,8 +5,11 @@ const ProfilePicture = () => {
     <div className='profile-picture-container'>
       <img src="../profile.jpg" alt="Profile" />
      <div className='profile-text'>
-       <h3>Hi! I'm Teds a Junior Web Developer.</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum.</p>
+       <h3>Hi there, I’m Teds 👋</h3>
+      <p className='profile-text'>- 🎓 Studying Information Technology (BSIT).</p>
+      <p className='profile-text'>- 💻 Exploring web development with Vite + React.</p>
+      <p className='profile-text'>- 🚀 Working on projects like e-commerce systems and mini-market apps.</p>
+      <p className='profile-text'>- 🌱 Learning new technologies and improving my skills.</p>
      </div>
     </div>
   )

@@ -11,7 +11,6 @@ const App = () => {
         <Profile></Profile>
       </div>
       <Footer></Footer>
-
     </div>
   )
 }

@@ -32,3 +32,11 @@ h2 {
     font-weight: 600;
     font-size: 12px;
 }
+
+.ci-text {
+    margin-top: 20px;
+    margin-left: 17px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}

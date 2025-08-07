@@ -6,7 +6,7 @@ const ProfilePicture = () => {
       <img src="../profilepic.jpg" alt="Profile" />
      <div className='profile-text'>
        <h3>wazzup 👋,</h3>
-       <p>im ruffa mae just call me Ming </p>
+       <p>im ruffa mae just call me cutie Ming </p>
      </div>
     </div>
   )
